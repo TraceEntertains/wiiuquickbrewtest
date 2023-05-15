@@ -1,0 +1,7 @@
+/wiiuhaxx_common/*
+!/wiiuhaxx_common/.gitkeep
+
+code550.bin
+dumpling.rpx
+#payload.elf
+payload_dbg.elf

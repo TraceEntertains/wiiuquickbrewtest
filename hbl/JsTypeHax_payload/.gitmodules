@@ -1,0 +1,7 @@
+[submodule "main_hook"]
+	path = main_hook
+	url = https://github.com/Crementif/payload_loader
+	branch = curl_payload
+[submodule "gx2sploit"]
+	path = gx2sploit
+	url = https://github.com/wiiu-env/gx2sploit
